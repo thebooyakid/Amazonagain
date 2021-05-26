@@ -58,6 +58,7 @@ a:link{
     margin-top: 5px;
     border: solid 1px;
     border-radius: 2px;
+    width: 100%;
 }
 
 .create{
@@ -67,4 +68,7 @@ a:link{
 }
 h5{
     margin-top: -10px;
+    background: white;
+    margin-left: 100px;
+    margin-right: 100px;
 }
