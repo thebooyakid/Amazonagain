@@ -1,0 +1,70 @@
+*{
+    font-family: arial;
+}
+
+.header{
+    padding: 15px;
+}
+
+.sign_in{
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 30%;
+    padding: 0px 15px 15px 15px;
+    margin: 15px;    
+}
+
+.create_account{
+    border-top: 2px solid black;
+    padding-bottom: 35px;
+    width: 26%;
+    text-align: center;
+}
+
+.footer{
+    border-top: 2px solid black;
+    padding-top: 30px;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.headcontainer{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    background-color: rgb(236, 222, 20);
+    border: solid 1px;
+    border-radius: 2px;
+    padding: 4px
+}
+
+.input{
+    padding: 5px;
+    margin-top: 5px;
+    border: solid 1px;
+    border-radius: 2px;
+}
+
+.create{
+    border: solid 1px;
+    border-radius: 2px;
+    padding: 5px;
+}
+h5{
+    margin-top: -10px;
+}
